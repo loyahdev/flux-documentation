@@ -9,3 +9,4 @@
 * [What devices are supported with Flux?](tutorials/what-devices-are-supported-with-flux.md)
 * [Why Do My Perpetual Tweaks Keep Stopping?](tutorials/why-do-my-perpetual-tweaks-keep-stopping.md)
 * [Why Can’t I Find The “Flux” Folder?](tutorials/why-cant-i-find-the-flux-folder.md)
+* [How Do I Become a Tester?](tutorials/how-do-i-become-a-tester.md)
