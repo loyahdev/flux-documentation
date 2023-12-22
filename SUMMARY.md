@@ -10,3 +10,4 @@
 * [Why Do My Perpetual Tweaks Keep Stopping?](tutorials/why-do-my-perpetual-tweaks-keep-stopping.md)
 * [Why Can’t I Find The “Flux” Folder?](tutorials/why-cant-i-find-the-flux-folder.md)
 * [How Do I Become a Tester?](tutorials/how-do-i-become-a-tester.md)
+* [How Do I Install Flux?](tutorials/how-do-i-install-flux.md)
